@@ -1,22 +1,8 @@
 <html>
     <head>
-		<meta content="text/html;charset=utf-8" http-equiv="Content-Type">
-		<meta content="utf-8" http-equiv="encoding">
-       
-
-		<link rel="stylesheet" type="text/css" href="app/w2ui-1.4.2.css">
-
         <style>
-
 			canvas { width: 100%; height: 100%;}
-
 		    body {margin: 0px;}
-
-			#layout {
-				width: 100%;
-				height: 100%;
-			}
-
 		</style>
 	</head>
     <body>
@@ -25,18 +11,5 @@
 		<script type="text/javascript" src="app/progressbar.min.js"></script>
 		<script type="text/javascript" src="app/OrbitControls.js"></script>
 		<script type="text/javascript" src="app/content.js"></script>
-
-
-		<script>
-
-			window.onbeforeunload = function () {
-				ping = new XMLHttpRequest();
-				ping.open("GET", "shutdown", true);
-				ping.send();
-			};
-
-		</script>
-
     </body>
-
 </html>
