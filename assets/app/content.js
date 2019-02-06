@@ -1,7 +1,7 @@
 /// <reference path="three.min.js" />
 /// <reference path="OrbitControls.js" />
 /// <reference path="progressbar.min.js" />
-/// <reference path="w2ui-1.4.2.min.js />
+
 
 var container;
 var camera, controls, scene, renderer, currCam;
