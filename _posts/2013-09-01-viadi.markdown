@@ -1,16 +1,16 @@
 ---
 layout: post
-title: "Epsilon"
+title: "Viadi"
 date: 2013-07-10
 description: 
-image: /assets/images/placeholder-9.jpg
+image: /assets/images/viadi_01.jpg
 author: Josias Marti
 tags: 
   - Nähmaschine
   - Linearmotoren
   - BA Arbeit
 ---
-Die Industrienähmaschine Epsilon ist für Kunden, die ständige Wartungsarbeiten vermeiden wollen. Mit der Verwendung von Linearmotoren, die man von der Magnetschwebebahn her kennt, kann auf ein komplexes Getriebe und damit auf häufige Wartung verzichtet werden. Linearmotoren ermöglichen eine leichte Gestaltung des Gehäuses und bieten so branchenuntypisch grosszügigen Arbeitsraum. Themen wie Beleuchtung und Bedienung wurden zusammen mit Anwendern ihren Bedürfnissen angepasst. Das Interface lässt sich als App auf ein Tablet laden und bietet mehr Flexibilität bei der Gestaltung des Arbeitsplatzes. 
+Viadi ist ein leichter Elektrorollstuhl der sich durch einen einfachen Klappmechanismus in verschiedene Positionen bringen lässt. Da man beim Reisen nicht weiss was man antrifft kann man sich nicht auf europäische Normgrössen abstützen sondern muss diese übertreffen. Viadi kann einerseits schmal und hoch sein um möglichst uneingeschränkte Bewegung zu zulassen oder den Blickkontakt zu stehenden Personen zu gewähren, aber auch tief und breit um schnell zu fahren. Seine Leichtigkeit verdankt er unter anderem den in sich selbst gefederten Loopwheels welche Komfort gewähren. Der Rollstuhl besteht aus einem Untergestell in welches die Akkus integriert sind und die Sitzschalen aufliegen. Vorder- und Rücklichter sind in Armlehne und Schubgriff am Rücken integriert. Die Steuerung ist in die Armlehne integriert und zeigt Ladestand sowie Geschwindigkeit an.
 
 * Industienähmaschine für Segelbau
 * Church-key crucifix messenger bag health goth
@@ -25,9 +25,11 @@ Die Industrienähmaschine Epsilon ist für Kunden, die ständige Wartungsarbeite
 ### Epsilon
 Die Industrienähmaschine Epsilon ist für Kunden, die ständige Wartungsarbeiten vermeiden wollen. Mit der Verwendung von Linearmotoren, die man von der Magnetschwebebahn her kennt, kann auf ein komplexes Getriebe und damit auf häufige Wartung verzichtet werden. Linearmotoren ermöglichen eine leichte Gestaltung des Gehäuses und bieten so branchenuntypisch grosszügigen Arbeitsraum. Themen wie Beleuchtung und Bedienung wurden zusammen mit Anwendern ihren Bedürfnissen angepasst. Das Interface lässt sich als App auf ein Tablet laden und bietet mehr Flexibilität bei der Gestaltung des Arbeitsplatzes. 
 
-![Placeholder](/assets/images/placeholder-2.jpg)
+![Placeholder](/assets/images/viadi_01.jpg)
 
 Meh food truck tofu succulents, literally waistcoat skateboard poke pop-up cold-pressed put a bird on it cliche umami cornhole kale chips. Man braid 8-bit irony selvage, butcher blog everyday carry. Af meggings tacos ugh la croix skateboard. Biodiesel paleo prism kombucha seitan drinking vinegar. Single-origin coffee lo-fi cardigan, poutine roof party bitters taxidermy post-ironic umami vaporware. Austin edison bulb leggings cliche. Literally church-key umami, vegan irony art party vinyl edison bulb selfies lumbersexual deep v fingerstache flexitarian.
+
+<iframe style="border: none;" src="/basic_dia/index.html"></iframe>
 
 > Sartorial af ennui bitters knausgaard, leggings kickstarter slow-carb chia sustainable hexagon. Prism 3 wolf moon occupy ramps wayfarers tumblr narwhal 90's.
 > <cite>Man braid</cite>
