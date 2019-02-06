@@ -3,7 +3,7 @@ layout: post
 title: "car utopia"
 date: 2013-07-10
 description: 
-image: /assets/images/placeholder-9.jpg
+image: /assets/images/car_edit00.jpg
 author: Josias Marti
 tags: 
   - Nähmaschine
@@ -25,7 +25,7 @@ Die Industrienähmaschine Epsilon ist für Kunden, die ständige Wartungsarbeite
 ### Epsilon
 Die Industrienähmaschine Epsilon ist für Kunden, die ständige Wartungsarbeiten vermeiden wollen. Mit der Verwendung von Linearmotoren, die man von der Magnetschwebebahn her kennt, kann auf ein komplexes Getriebe und damit auf häufige Wartung verzichtet werden. Linearmotoren ermöglichen eine leichte Gestaltung des Gehäuses und bieten so branchenuntypisch grosszügigen Arbeitsraum. Themen wie Beleuchtung und Bedienung wurden zusammen mit Anwendern ihren Bedürfnissen angepasst. Das Interface lässt sich als App auf ein Tablet laden und bietet mehr Flexibilität bei der Gestaltung des Arbeitsplatzes. 
 
-![Placeholder](/assets/images/placeholder-2.jpg)
+![Placeholder](/assets/images/car_edit00.jpg)
 
 Meh food truck tofu succulents, literally waistcoat skateboard poke pop-up cold-pressed put a bird on it cliche umami cornhole kale chips. Man braid 8-bit irony selvage, butcher blog everyday carry. Af meggings tacos ugh la croix skateboard. Biodiesel paleo prism kombucha seitan drinking vinegar. Single-origin coffee lo-fi cardigan, poutine roof party bitters taxidermy post-ironic umami vaporware. Austin edison bulb leggings cliche. Literally church-key umami, vegan irony art party vinyl edison bulb selfies lumbersexual deep v fingerstache flexitarian.
 

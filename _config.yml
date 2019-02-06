@@ -12,13 +12,13 @@ description: >
   das ist mein digitales Portfolio
 url: https://josi.as
 
-default_img: /assets/images/seo.jpg
+default_img: /assets/images/io.jpg
 social:
   - name: github
     url: https://github.com/creisey
 
 # Contact settings
-contact_img: /assets/images/placeholder-28.jpg
+contact_img: /assets/images/io.jpg
 formcarry: https://formcarry.com/s/HkIo0nMb7
 
 # Disqus settings
