@@ -7,7 +7,7 @@ layout: default
       <div class="grid-small">
         <h2 itemprop="name headline">{{ page.title }}</h2>
 
-        <time class="post__date" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%-d %b %Y" }}</time>
+       
       </div>
     </div>
 
@@ -37,15 +37,7 @@ layout: default
         </div>
       </div>
 
-      <div class="section-padding">
-        <div class="grid-small">
-          {% for author in site.author %}
-            <span class="post__author">Posted by {% if author["name"] == page.author and author["url"] %}<a href="{{ author['url'] }}" title="More By {{ page.author }}">{% endif %}{{ page.author }}{% if author["name"] == page.author and author["url"] %}</a>{% endif %}</span>
-            {% if author["name"] == page.author %}
-              <p class="post__bio">{{ author["bio"] }}</p>
-            {% endif %}
-          {% endfor %}
-        </div>
+
       </div>
     {% endif %}
 

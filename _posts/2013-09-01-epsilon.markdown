@@ -32,7 +32,7 @@ Meh food truck tofu succulents, literally waistcoat skateboard poke pop-up cold-
 > <cite>Man braid</cite>
 
 
-<iframe style="border: none;" src="/about.html"></iframe>
+<iframe style="border: none;" src="/assets/machine.html"></iframe>
 
 #### Metalrahmen im 3D modell (HTML5)
 <iframe style="border: none;" src="/assets/n.html" ></iframe>

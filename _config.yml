@@ -3,7 +3,7 @@ email: marti@josi.as
 baseurl: ""
 paginate: 12
 paginate_path: "/page/:num"
-permalink: /:year/:month/:day/:title/
+permalink: /:title/
 google_analytics: 
 
 name: Josias Marti
