@@ -9,7 +9,7 @@ padding:0;
 }
 
 body {
-background:#f5f5f5;
+background:white;
 font-family:Arial, Helvetica, sans-serif;
 font-size:12px;
 color:#333;
@@ -18,18 +18,13 @@ line-height:18px;
 
 #content {
 position:absolute;
-top:50%;
+top:80%;
 left:50%;
-margin:-340px 0 0 -450px;
-width:900px;
-height:600px;
+margin:-390px 0 0 -450px;
+
+
 }
 
-.legend {
-float:left;
-width:250px;
-margin-top:140px;
-}
 
 #content h1 {
 font-family:'Cabin Sketch', arial, serif;
@@ -112,8 +107,8 @@ text-align:center;
 
 #diagram {
 float:right;
-width:600px;
-height:600px;
+width:100px;
+height:100px;
 }
 
 .get {
