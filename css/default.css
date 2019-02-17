@@ -49,30 +49,6 @@ background:#BEDBE9;
 background:#EDEBEE;
 }
 
-.footer {
-position:fixed;
-bottom:0;
-left:0;
-width:100%;
-background:#2D2D2D;
-color:#EAEAEA;
-padding:20px 0;
-}
-
-.footer a {
-color:#EAEAEA;
-}
-
-.footer a:hover {
-color:#E4842C;
-}
-
-.footer .inside {
-font-family: 'Cabin Sketch', arial, serif;
-font-size:22px;
-text-align:center;
-}
-
 
 .get {
 display:none;
