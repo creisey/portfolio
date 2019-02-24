@@ -17,9 +17,11 @@ Es gibt zurzeit eine grosse Anzahl Möglichkeiten Tee zuzubereiten. Da gibt es d
 
 <iframe style="border: none;" src="/assets/tea.html"></iframe>
 
-### Teekanne
-Die Teekanne wurde...
-
+### Funktion
 ![Placeholder](/assets/images/tea_pot00.jpg)
+Beim Zubereiten von Tee nimmt man nach der Ziehzeit den Beutel bzw. das Teei aus dem heissen Wasser. So gelangt man zum typischen Aroma der jeweiligen Teesorte. Verpasst man den Zeitpunkt, ergibt es beispielsweise beim Schwarztee einen bitteren Beigeschmack.
+
+
+
 
 <a href="https://drive.google.com/uc?export=download&amp;confirm=&amp;id=0B0R9a8S8olwXY0FzT1MxY0VwbkU" target="_blank" rel="noopener">PDF</a>
