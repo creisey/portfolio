@@ -1,23 +1,18 @@
 ---
 layout: post
-title: "pipeline"
+title: "Pipeline"
 date: 2013-05-30
-description: 
+description:
 image: /assets/images/table_single.png
 author: Josias Marti
-tags: 
+tags:
   - DIY
   - Hardware hack
 
 ---
-eine Internationale Zusammenarbeit mit Continental Guadalajara, Mexico
+Ein Möbelsystem das aus Standardelementen zusammengebaut ist. Sie können in den nächsten Haushaltswaren Laden (in der Schweiz OBI/Bauhaus/Jumbo) gehen und kaufen sich die Teile. Mit der Anleitung unten, können sie ein Salontisch bauen.
 
-* DIY
-
-### Pipeline
-Die Industrienähmaschine Epsilon ist für Kunden, die ständige Wartungsarbeiten vermeiden wollen. Mit der Verwendung von Linearmotoren, die man von der Magnetschwebebahn her kennt, kann auf ein komplexes Getriebe und damit auf häufige Wartung verzichtet werden. Linearmotoren ermöglichen eine leichte Gestaltung des Gehäuses und bieten so branchenuntypisch grosszügigen Arbeitsraum. Themen wie Beleuchtung und Bedienung wurden zusammen mit Anwendern ihren Bedürfnissen angepasst. Das Interface lässt sich als App auf ein Tablet laden und bietet mehr Flexibilität bei der Gestaltung des Arbeitsplatzes. 
-
-![Placeholder](/assets/images/table_single.png)
+![Placeholder](/assets/images/pipeline_02.jpg)
 
 <iframe style="border: none;" src="/assets/chair.html"></iframe>
 <iframe style="border: none;" src="/assets/pipeline.html"></iframe>

@@ -4,13 +4,13 @@ baseurl: ""
 paginate: 12
 paginate_path: "/page/:num"
 permalink: /:title/
-google_analytics: 
+google_analytics:
 
 name: Josias Marti
 title: Josias Marti
 description: >
   das ist mein digitales Portfolio
-url: https://ai.josi.as
+url: https://josi.as
 
 default_img: "/assets/images/io.jpg"
 social:
@@ -28,9 +28,9 @@ disqus: test-apkdzgmqhj
 
 # Author settings
 author:
-  - name: Josias Marti 
+  - name: Josias Marti
     bio: Josias Marti lebt in Luzern
-    url: https://ai.josi.as
+    url: https://josi.as
 
 # Build settings
 markdown: kramdown
