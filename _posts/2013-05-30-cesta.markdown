@@ -9,12 +9,15 @@ tags:
   - Wäschekorb
   - Haushalt
 ---
-Die Industrienähmaschine Epsilon ist für Kunden, die ständige Wartungsarbeiten vermeiden wollen. Mit der Verwendung von Linearmotoren, die man von der Magnetschwebebahn her kennt, kann auf ein komplexes Getriebe und damit auf häufige Wartung verzichtet werden. Linearmotoren ermöglichen eine leichte Gestaltung des Gehäuses und bieten so branchenuntypisch grosszügigen Arbeitsraum. Themen wie Beleuchtung und Bedienung wurden zusammen mit Anwendern ihren Bedürfnissen angepasst. Das Interface lässt sich als App auf ein Tablet laden und bietet mehr Flexibilität bei der Gestaltung des Arbeitsplatzes. 
+Anhand von Origami-Experimenten mit Papier habe ich ein 2D Material in eine 3D Form gebracht. Dabei ist mir aufgefallen das mit den richtigen Falttechniken das Material die Form behält. <img src="/assets/images/cesta_4.jpg" alt="Grid Image"/>
+Um diese Technik dann für den Alltag zu verwenden, ist mir meine Verwendung für einen Wäschekorb eingefallen. Meine Wohnsituation in der obersten Etage hatte leider beim Waschen den Nachteil, dass ich sämtliche Wäsche in der Waschküche im Untergeschoss reinigen und anschliessend wieder in meine Wohnung hinauftragen durfte. Dabei trägt sich ein grosser voller Wäschekorb mit nasser Wäsche in zwei Händen besonders schlecht. Lange Rede kurzer Sinn; ich wollte ein Waschkorb den man am Rücken tragen konnte.
 
+Während einigen Versuchen mit Planematerial und Nähmaschine bin ich zu einem guten Ergebnis gekommen.
+
+Für die finale Umsetzung durfte ich bei einem Bekannten in seiner Autosattlerei auf einer Sattlernähmaschine arbeiten.
+<img src="/assets/images/cesta_6.jpg" alt="Grid Image"/>
+
+#### Prozessbilder
 <iframe style="border: none;" src="/assets/cesta.html"></iframe>
 
-### Cesta
-
-
-![Placeholder](/assets/images/cesta_1.jpg)
 
