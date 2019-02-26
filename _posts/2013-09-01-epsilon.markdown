@@ -12,9 +12,6 @@ tags:
 ---
 Die Industrienähmaschine Epsilon ist für Kunden, die ständige Wartungsarbeiten vermeiden wollen. Mit der Verwendung von Linearmotoren, die man von der Magnetschwebebahn her kennt, kann auf ein komplexes Getriebe und damit auf häufige Wartung verzichtet werden. Linearmotoren ermöglichen eine leichte Gestaltung des Gehäuses und bieten so branchenuntypisch grosszügigen Arbeitsraum. Themen wie Beleuchtung und Bedienung wurden zusammen mit Anwendern ihren Bedürfnissen angepasst. Das Interface lässt sich als App auf ein Tablet laden und bietet mehr Flexibilität bei der Gestaltung des Arbeitsplatzes. 
 
-* Industienähmaschine für Segelbau
-
-
 
 ![Placeholder](/assets/images/maschine01.jpg)
 
