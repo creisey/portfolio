@@ -10,9 +10,6 @@ tags:
   - Adobe Creative Suite
 
 ---
-Digitales Portfolio
-have a look at the live version (requires flash)
-
 #### have a look at the live version (requires flash)
 <iframe style="border: none;" src="https://i.josi.as/3" ></iframe>
 

@@ -3,16 +3,24 @@ layout: post
 title: "Pipeline"
 date: 2013-05-30
 description:
-image: /assets/images/table_single.png
+image: /assets/images/table_single.jpg
 author: Josias Marti
 tags:
   - DIY
   - Hardware hack
 
 ---
-Ein Möbelsystem, das aus Standardelementen zusammengebaut ist. Sie können in den nächsten Haushaltswaren Laden (in der Schweiz OBI/Bauhaus/Jumbo) gehen und kaufen sich die Teile. Mit der Anleitung unten können sie ein Salontisch bauen.
+
+### Ein Tischsystem im Format 60x60 [cm].
+Bestehend aus sechs Standardelementen, die in jedem Hobbymarkt gekauft werden können.
+Die Trägerstruktur ist ein aus Leitungsrohren zusammengeschraubtes Konstrukt.
+Mit Hilfe des Pipeline Elements kann man das Tischsystem individuell erweitern.
 
 ![Placeholder](/assets/images/pipeline_02.jpg)
 
 
 <iframe style="border: none;" src="/assets/pipeline.html"></iframe>
+
+<video controls preload loop> 
+    <source src="/assets/video/pipe.mp4"></source>
+</video>
