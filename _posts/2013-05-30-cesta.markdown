@@ -10,7 +10,7 @@ tags:
   - Haushalt
 ---
 Anhand von Origami-Experimenten mit Papier habe ich ein 2D Material in eine 3D Form gebracht. Dabei ist mir aufgefallen, dass mit den richtigen Falttechniken das Material die Form behält. <img src="/assets/images/cesta_4.jpg" alt="Grid Image"/>
-Um diese Technik dann für den Alltag zu verwenden, ist mir mein Bedarf für einen Wäschekorb eingefallen. Meine Wohnsituation in der obersten Etage hatte leider beim Waschen den Nachteil, dass ich sämtliche Wäsche in der Waschküche im Untergeschoss reinigen und anschliessend wieder in meine Wohnung hinauftragen durfte. Dabei trägt sich ein grosser voller Wäschekorb mit nasser Wäsche in zwei Händen besonders schlecht. Lange Rede kurzer Sinn; ich wollte ein Waschkorb den man am Rücken tragen konnte.
+Um diese Technik dann für den Alltag zu verwenden, ist mir mein Bedarf für einen Wäschekorb eingefallen. Meine Wohnsituation in der obersten Etage hatte leider beim Waschen den Nachteil, dass ich sämtliche Wäsche in der Waschküche im Untergeschoss reinigen und anschliessend wieder in meine Wohnung hinauftragen durfte. Dabei trägt sich ein grosser voller Wäschekorb mit nasser Wäsche in zwei Händen besonders schlecht. Lange Rede kurzer Sinn; ich wollte einen Waschkorb, den man am Rücken tragen konnte.
 
 Während einigen Versuchen mit Planematerial und Nähmaschine bin ich zu einem guten Ergebnis gekommen.
 

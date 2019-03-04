@@ -10,11 +10,9 @@ tags:
   - Hardware hack
 
 ---
-Ein Möbelsystem das aus Standardelementen zusammengebaut ist. Sie können in den nächsten Haushaltswaren Laden (in der Schweiz OBI/Bauhaus/Jumbo) gehen und kaufen sich die Teile. Mit der Anleitung unten, können sie ein Salontisch bauen.
+Ein Möbelsystem, das aus Standardelementen zusammengebaut ist. Sie können in den nächsten Haushaltswaren Laden (in der Schweiz OBI/Bauhaus/Jumbo) gehen und kaufen sich die Teile. Mit der Anleitung unten können sie ein Salontisch bauen.
 
 ![Placeholder](/assets/images/pipeline_02.jpg)
 
-<iframe style="border: none;" src="/assets/chair.html"></iframe>
-<iframe style="border: none;" src="/assets/pipeline.html"></iframe>
 
-M
+<iframe style="border: none;" src="/assets/pipeline.html"></iframe>

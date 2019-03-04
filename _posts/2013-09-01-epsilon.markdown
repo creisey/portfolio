@@ -19,7 +19,7 @@ Die Industrienähmaschine Epsilon ist für Kunden, die ständige Wartungsarbeite
 
 <iframe style="border: none;" src="/assets/machine.html"></iframe>
 
-#### Metalrahmen im 3D modell (HTML5)
+#### Metallrahmen im 3D Modell (HTML5)
 <iframe style="border: none;" src="/assets/n.html" ></iframe>
 it takes up to 20 seconds to load
 

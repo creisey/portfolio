@@ -8,12 +8,11 @@ author: Josias Marti
 tags: 
   - Küche
 ---
-Teekanne
 In Europa lernte man das belebende Getränk erst um 1550 durch die Araber kennen, die Teeblätter als Tauschmittel mitbrachten. Zunächst erachtete man die exotische Ware als reine Medizin, die in Apotheken zu exorbitanten Preisen feilgeboten wurde. Bald aber gelüstete es die Europäer verstärkt nach dem Genuss dieses Getränks.
 
-In England entstand sogar die Teatime, eine Mahlzeit am späteren Nachmittag, die mit Tee serviert wurde.
+In England entstand sogar die Teatime, eine Mahlzeit am späteren Nachmittag, in der Tee serviert wurde.
 
-Es gibt zurzeit eine grosse Anzahl Möglichkeiten Tee zuzubereiten. Da gibt es den bekannten Tee-Beutel, das Teeei und diverse Filter die man in eine Teetasse hängen kann.
+Es gibt zurzeit eine grosse Anzahl Möglichkeiten Tee zuzubereiten. Da gibt es den bekannten Tee-Beutel, das Teeei und diverse Filter, die man in eine Teetasse hängen kann.
 
 <iframe style="border: none;" src="/assets/tea.html"></iframe>
 

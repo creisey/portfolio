@@ -6,16 +6,21 @@ description:
 image: /assets/images/clayon_1.jpg
 author: Josias Marti
 tags: 
-  - Bettsystem
-  - Roviva
+  - CAD-Rendering, Designmodell
+  - Techniken / Verfahren
+  -  Ergonomie, Konzeptionelle Arbeit, Lifestyle, Möbel
 ---
-Kundenkreis von Roviva erweitern (jüngeres Zielpublikum). Betriebsintern herstellbar. Idee des «Schmetterlingsauflagesystem» übernehmen. Material und Rohstoffverbrauch reduzieren.
-Beschreibung
-Konzept und Idee: Wir haben es uns als Ziel gesetzt mit unserem Produkt eine neue Zielgruppe anzusprechen. Mit einem verständlichen Mechanismus haben wir die Funktion der Federung in das tragende Matratzenauflagesystem integriert. Dies ermöglicht den Einsatz von dünnen Matratzen was dieser Zielgruppe, die auf Mobilität setzt, entspricht. Wir haben uns am bestehenden Konzept eines Federsystemes von Roviva orientiert und es mit einem Geflächt aus Gummi kombiniert. Als Resultat ist damit Clayon entstanden. Weist einen geringen Materialverbrauch auf. Schmiegt sich dem Körper sehr gut an. Ist sehr leicht und gut durchlüftet. Individuelles Anpassen der Auflagezonen. Ermöglicht eine punktuelle Federung. Garantiert eine randlose Auflage. Produktion: Ist Betriebsintern in einem arbeitsoptimierten Prozess herstellbar. Materialverbrauch wurde stark reduziert. Puristisches Design des Holzrahmens passt in jedes Schlafzimmer. Das markante schwarze Quadrat auf den Aussenseiten unterstreicht das einzigartige Schlafsystem Clayon.
 
-* Ergonomie, Konzeptionelle Arbeit, Lifestyle, Möbel
-* Techniken / Verfahren
-* CAD-Rendering, Designmodell
+
+Konzept und Idee: Wir haben es uns als Ziel gesetzt mit unserem Produkt eine neue Zielgruppe anzusprechen. Mit einem verständlichen Mechanismus haben wir die Funktion der Federung in das tragende Matratzenauflagesystem integriert. Dies ermöglicht den Einsatz von dünnen Matratzen was dieser Zielgruppe, die auf Mobilität setzt, entspricht. Wir haben uns am bestehenden Konzept eines Federsystemes von Roviva orientiert und es mit einem Geflächt aus Gummi kombiniert. Als Resultat ist damit Clayon entstanden. Weist einen geringen Materialverbrauch auf. Schmiegt sich dem Körper sehr gut an. Ist sehr leicht und gut durchlüftet. Individuelles Anpassen der Auflagezonen. Ermöglicht eine punktuelle Federung. Garantiert eine randlose Auflage. Produktion: Ist betriebsintern in einem arbeitsoptimierten Prozess herstellbar. Materialverbrauch wurde stark reduziert. Puristisches Design des Holzrahmens passt in jedes Schlafzimmer. Das markante schwarze Quadrat auf den Aussenseiten unterstreicht das einzigartige Schlafsystem Clayon.
+
+<ol>
+
+<li>Kundenkreis von Roviva erweitern (jüngeres Zielpublikum). </li>
+<li>Betriebsintern herstellbar.  </li>
+<li>Idee des «Schmetterlingsauflagesystem» übernehmen.  </li>
+<li>Material und Rohstoffverbrauch reduzieren. </li>
+</ol>
 
 #### Prozessbilder
 <iframe style="border: none;" src="/assets/clayon.html"></iframe>

@@ -9,13 +9,13 @@ tags:
   - Notification System
   - Continental
 ---
-eine Internationale Zusammenarbeit mit Continental Guadalajara, Mexico
+<h5>Eine internationale Zusammenarbeit mit Continental Guadalajara, Mexico</h5>
 
-Der digitale Wandel ist auf der Strasse angekommen. Das Smartphone ist ein treuer Begleiter und Unterstützer und Hilft uns zu orientieren, verbindet uns mit unseren Freunden und unserm Arbeitsumfeld. - Das bringt auch Gefahren! Während der Fahrt aufs Display zu schauen, oder gar ohne Freisprecheinrichtung zu telefonieren, ist laut dem Bundesamt für Verkehr mit dem Fahren unter Alkoholeinfluss gleichzusetzen.
+Der digitale Wandel ist auf der Strasse angekommen. Das Smartphone ist ein treuer Begleiter und Unterstützer und hilft uns zu orientieren, verbindet uns mit unseren Freunden und unserem Arbeitsumfeld. - Das bringt auch Gefahren! Während der Fahrt aufs Display zu schauen, oder gar ohne Freisprecheinrichtung zu telefonieren, ist laut dem Bundesamt für Verkehr mit dem Fahren unter Alkoholeinfluss gleichzusetzen.
 
-Vielfach werden wir während der Fahrt angerufen oder erhalten eine Nachricht die wir häufig direkt entgegennehmen oder lesen. Kann man dieser Abklenkung entgegenwirken? Diesem Verhalten sind sich auch Autoherstellen bewusst und haben diese Aufgabe an eine Gruppe von Studenten gestellt.
+Vielfach werden wir während der Fahrt angerufen oder erhalten eine Nachricht, die wir häufig direkt entgegennehmen oder lesen. Kann man dieser Abklenkung entgegenwirken? Diesem Verhalten sind sich auch Autohersteller bewusst und haben diese Aufgabe an eine Gruppe von Studenten gestellt.
 
-In unserer Gruppe hatten wir dievere Kompetenzen abgedekt:
+In unserer Gruppe hatten wir diverse Kompetenzen abgedekt:
 - Interaction Design
 - Mechatronics
 - Electronics
@@ -23,6 +23,6 @@ In unserer Gruppe hatten wir dievere Kompetenzen abgedekt:
 - Psychology
 - Design
 
-Unsere Idee ist eine Armlehne welche mit Warm / Kalt und verschiedenen Vibrations-Muster eine Mitteiling oder Anruf an den Fahrer mitteilt.
+Unsere Idee ist eine Armlehne welche mit Warm / Kalt und verschiedenen Vibrationsmustern eine Mitteiling oder Anruf an den Fahrer mitteilt.
 
-Diese Armlehne sollte ergonimisch sein und die technischen Komponenten an entsprechender Stelle bereithalten.
+Diese Armlehne, welche ergonomisch sein und die technischen Komponenten an entsprechender Stelle bereithalten.
