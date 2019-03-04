@@ -21,6 +21,6 @@ Mit Hilfe des Pipeline Elements kann man das Tischsystem individuell erweitern.
 
 <iframe style="border: none;" src="/assets/pipeline.html"></iframe>
 
-<video controls> 
+<video autobuffer autoplay controls> 
     <source src="/assets/video/pipe.mp4"></source>
 </video>
