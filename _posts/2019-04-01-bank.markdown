@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Badezimmermöbel"
+date: 2018-05-30
+description: 
+image: /assets/images/bank0.jpg
+author: Josias Marti
+tags: 
+  - modular Furniture
+
+---
+<h5>ein Bank aus gesteckten Elementen</h5>
+
+<iframe style="border: none;" src="/assets/bank.html"></iframe>

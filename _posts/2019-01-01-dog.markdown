@@ -1,0 +1,14 @@
+---
+layout: post
+title: "DOG Spiel"
+date: 2018-05-30
+description: 
+image: /assets/images/dog3.jpg
+author: Josias Marti
+tags: 
+  - board game
+
+---
+<h5>das bekannte Spiel DOG</h5>
+
+<iframe style="border: none;" src="/assets/dog.html"></iframe>
