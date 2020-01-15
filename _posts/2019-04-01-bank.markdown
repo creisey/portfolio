@@ -3,7 +3,7 @@ layout: post
 title: "Badezimmermöbel"
 date: 2018-05-30
 description: 
-image: /assets/images/bank0.jpg
+image: /assets/images/bank1.jpg
 author: Josias Marti
 tags: 
   - modular Furniture
