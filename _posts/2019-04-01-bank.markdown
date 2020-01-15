@@ -9,6 +9,6 @@ tags:
   - modular Furniture
 
 ---
-<h5>ein Bank aus gesteckten Elementen</h5>
+<h5>eine Bank aus gesteckten Elementen</h5>
 
 <iframe style="border: none;" src="/assets/bank.html"></iframe>
