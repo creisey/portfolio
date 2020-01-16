@@ -11,6 +11,6 @@ tags:
 ---
 <h5>eine Bank aus gesteckten Elementen</h5>
 Diese Sitzbank besteht aus 30mm dicker Fichte.
-Sie ist aus 4 CNC gefrästen Elementen zusammengesteckt.
+Sie ist aus 4 CNC gefrästen Elementen zusammengefügt.
 
 <iframe style="border: none;" src="/assets/bank.html"></iframe>
