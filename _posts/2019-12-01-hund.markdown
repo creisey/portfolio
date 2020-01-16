@@ -9,7 +9,7 @@ tags:
   - spielzeug
 
 ---
-Ein Hund aus Fichte mit Rädern und Kordel zum ziehen.
+Ein Hund aus Fichte mit Rädern und Kordel zum Ziehen.
 
 
 ![Placeholder](/assets/images/hund.gif)
