@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Spielzeug Hund"
+date: 2019-12-27
+description: 
+image: /assets/images/hund3.jpg
+author: Josias Marti
+tags: 
+  - spielzeug
+
+---
+<h5>Spielzeug Hund</h5>
+Ein Hund aus Fichte mit Rädern und Kordel zum ziehen.
+
+
+![Placeholder](/assets/images/hund.gif)
+
+<iframe style="border: none;" src="/assets/hund.html"></iframe>

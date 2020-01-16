@@ -10,5 +10,6 @@ tags:
 
 ---
 <h5>das bekannte Spiel DOG</h5>
+Eigene Interpretation gefräst in Bambus.
 
 <iframe style="border: none;" src="/assets/dog.html"></iframe>

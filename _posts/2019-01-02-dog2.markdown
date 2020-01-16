@@ -1,0 +1,15 @@
+---
+layout: post
+title: "DOG Spiel"
+date: 2018-05-30
+description: 
+image: /assets/images/dogs2.jpg
+author: Josias Marti
+tags: 
+  - board game
+
+---
+<h5>das bekannte Spiel DOG</h5>
+Eigene Interpretation gelasert und durch modularen Aufbau wie ein Puzzle praktisch für Unterwegs
+
+<iframe style="border: none;" src="/assets/dogs.html"></iframe>
