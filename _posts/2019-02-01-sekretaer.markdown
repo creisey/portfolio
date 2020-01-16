@@ -9,7 +9,7 @@ tags:
   - modular Furniture
 
 ---
-<h5>eine Erweiterung für IKEA MICKE</h5>
+<h5>Eine Erweiterung für IKEA MICKE.</h5>
 Der Tisch ist aus geölter Eiche.
 Die Platten sind durch Steckverbindungen zusammengefügt.
 

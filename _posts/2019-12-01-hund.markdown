@@ -9,7 +9,6 @@ tags:
   - spielzeug
 
 ---
-<h5>Spielzeug Hund</h5>
 Ein Hund aus Fichte mit Rädern und Kordel zum ziehen.
 
 

@@ -9,7 +9,6 @@ tags:
   - board game
 
 ---
-<h5>das bekannte Spiel DOG</h5>
-Eigene Interpretation gefräst in Bambus.
+Eine eigene Interpretation des bekannten Spiel DOG gefräst in Bambus.
 
 <iframe style="border: none;" src="/assets/dog.html"></iframe>

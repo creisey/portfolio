@@ -9,7 +9,6 @@ tags:
   - board game
 
 ---
-<h5>das bekannte Spiel DOG</h5>
-Eigene Interpretation gelasert und durch modularen Aufbau wie ein Puzzle praktisch für Unterwegs
+Eigene Interpretation des bekannten Spiel DOG gelasert und durch modularen Aufbau wie ein Puzzle praktisch für Unterwegs
 
 <iframe style="border: none;" src="/assets/dogs.html"></iframe>
