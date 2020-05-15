@@ -4,7 +4,7 @@ baseurl: ""
 paginate: 12
 paginate_path: "/page/:num"
 permalink: /:title/
-google_analytics:
+google_analytics: UA-166760696-1
 
 name: Josias Marti
 title: Josias Marti
