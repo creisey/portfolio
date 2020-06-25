@@ -8,14 +8,15 @@ layout: compress
   {% include head.html %}
 
 </head>
-<body id="{% if page.title %}{{ page.title | slugify }}{% else %}home{% endif %}" class="{{ page.layout | downcase }}-layout">
+{% include header.html %}
+<!-- <body id="{% if page.title %}{{ page.title | slugify }}{% else %}home{% endif %}" class="{{ page.layout | downcase }}-layout">
   
   {% include header.html %}
 
   <main class="💈">
 
     {{ content }}
-    <iframe src="https://blog.josi.as/" width="100%" height="100%" frameborder="0"></iframe> <!-- is there any place to set headers in this? -->
+    <iframe src="https://blog.josi.as/" width="100%" height="100%" frameborder="0"></iframe> <!-- is there any place to set headers in this?
 <object data="https://blog.josi.as/" width="100%" height="100%">
     <embed src="https://blog.josi.as/" width="100%" height="100%"> </embed>
     Error: Embedded data could not be displayed.
@@ -28,5 +29,5 @@ layout: compress
 
 <section class="post">
  
-</section>
+</section> -->
 </html>
