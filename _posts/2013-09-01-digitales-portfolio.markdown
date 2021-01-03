@@ -6,7 +6,7 @@ description:
 image: /assets/images/portfolio.jpg
 author: Josias Marti
 tags:
-  - Indesign
+  - Adobe Flash
   - Adobe Creative Suite
 
 ---
