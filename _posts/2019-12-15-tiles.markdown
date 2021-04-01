@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "Geräuschdämpfer"
+title: "Akustik-Dämmelemente"
 date: 2019-12-27
 description: 
 image: /assets/images/tiles1.jpg
 author: Josias Marti
 tags: 
-  - Geräuschdämmelement
+  - Akustik-Dämmelemente
   - Dekorelement
 ---
-Ein Dekorelemet mit Schalldämmung
+Ein Dekorelemet mit Akustik-Dämmung
 
 
 <iframe style="border: none;" src="/assets/plattli.html"></iframe>
