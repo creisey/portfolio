@@ -12,4 +12,4 @@ tags:
 Ein Dekorelemet mit Schalldämmung
 
 
-<iframe style="border: none;" src="/assets/hund.html"></iframe>
+<iframe style="border: none;" src="/assets/plattli.html"></iframe>
