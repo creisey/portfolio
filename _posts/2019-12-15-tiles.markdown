@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Geräuschdämpfer"
+date: 2019-12-27
+description: 
+image: /assets/images/tiles1.jpg
+author: Josias Marti
+tags: 
+  - Geräuschdämmelement
+  - Dekorelement
+---
+Ein Dekorelemet mit Schalldämmung
+
+
+<iframe style="border: none;" src="/assets/hund.html"></iframe>
