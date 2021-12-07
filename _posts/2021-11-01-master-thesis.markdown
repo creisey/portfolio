@@ -1,15 +1,12 @@
 ---
 layout: post
 title: "Bewegen mit Umdenken"
-date: 2020-12-27
+date: 2021-01-20
 description: 
 image: /assets/images/bewegen-mit-umdenken.jpg
 author: Josias Marti
 tags: 
-  - Behavioural Design
-  - Mobility
-
-
+- Master
 ---
 In einer Smart City wird auch die Mobilität neu gedacht, wie zum Beispiel in einer Masterarbeit der Hochschule Design und Kunst. Darin wird experimentiert, wie ein nachhaltiges Mobilitätsverhalten gefördert werden kann.
 

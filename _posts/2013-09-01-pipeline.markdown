@@ -6,9 +6,7 @@ description:
 image: /assets/images/table_single.jpg
 author: Josias Marti
 tags:
-  - DIY
-  - Hardware hack
-
+  - Bachelor
 ---
 
 ### Ein Tischsystem im Format 60x60 [cm].

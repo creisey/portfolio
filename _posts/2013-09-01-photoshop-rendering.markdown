@@ -5,10 +5,8 @@ date: 2013-07-10
 description: 
 image: /assets/images/leica_013.jpg
 author: Josias Marti
-tags: 
-  - Photoshop
-  - Rendering
-  - CS 6
+tags:
+  - Bachelor
 ---
 ein Photoshop Rendering, in der Diashow unten sieht man den Prozess
 

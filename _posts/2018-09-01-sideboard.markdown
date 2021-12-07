@@ -6,8 +6,7 @@ description:
 image: /assets/images/tv.jpg
 author: Josias Marti
 tags: 
-  - modular Furniture
-
+- own project
 ---
 <h5>ein Fernsehmöbel als Erweiterung von Pipeline</h5>
 

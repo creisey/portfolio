@@ -6,8 +6,7 @@ description:
 image: /assets/images/car_side.jpg
 author: Josias Marti
 tags: 
-  - Carsharing
-  - Verkehrskonzept
+  - Bachelor
 ---
 
 Die Eisenbahn hat die Basis von unserem modernen Leben gesetzt. Dank ihr können wir noch heute rasch und komfortabel von A nach B reisen. Wer mehr Freiheit, Privatsphäre und unabhängig vom Taktverkehr sein möchte, der ist per Auto unterwegs.

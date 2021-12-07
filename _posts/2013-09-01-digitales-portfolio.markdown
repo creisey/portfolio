@@ -6,9 +6,7 @@ description:
 image: /assets/images/portfolio.jpg
 author: Josias Marti
 tags:
-  - Adobe Flash
-  - Adobe Creative Suite
-
+  - Bachelor
 ---
 #### have a look at the live version (requires flash)
 <iframe style="border: none;" src="https://i.josi.as/3" ></iframe>

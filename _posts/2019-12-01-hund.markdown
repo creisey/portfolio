@@ -6,7 +6,7 @@ description:
 image: /assets/images/hund3.jpg
 author: Josias Marti
 tags: 
-  - spielzeug
+- own project
 
 ---
 Ein Hund aus Fichte mit Rädern und Kordel zum Ziehen.

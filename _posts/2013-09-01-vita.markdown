@@ -6,8 +6,7 @@ description:
 image: /assets/images/vita.jpg
 author: Josias Marti
 tags: 
-  - Notification System
-  - Continental
+  - Bachelor
 ---
 <h5>Eine internationale Zusammenarbeit mit Continental Guadalajara, Mexico</h5>
 

@@ -6,7 +6,7 @@ description:
 image: /assets/images/sekretaer4.jpg
 author: Josias Marti
 tags: 
-  - modular Furniture
+- own project
 
 ---
 <h5>Eine Erweiterung für IKEA MICKE.</h5>

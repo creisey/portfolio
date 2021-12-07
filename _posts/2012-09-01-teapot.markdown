@@ -6,7 +6,7 @@ description:
 image: /assets/images/tea_pot05.jpg
 author: Josias Marti
 tags: 
-  - Küche
+  - Bachelor
 ---
 In Europa lernte man das belebende Getränk erst um 1550 durch die Araber kennen, die Teeblätter als Tauschmittel mitbrachten. Zunächst erachtete man die exotische Ware als reine Medizin, die in Apotheken zu exorbitanten Preisen feilgeboten wurde. Bald aber gelüstete es die Europäer verstärkt nach dem Genuss dieses Getränks.
 

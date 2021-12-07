@@ -6,9 +6,7 @@ description:
 image: /assets/images/clayon_1.jpg
 author: Josias Marti
 tags: 
-  - CAD-Rendering, Designmodell
-  - Techniken / Verfahren
-  -  Ergonomie, Konzeptionelle Arbeit, Lifestyle, Möbel
+  - Bachelor
 ---
 
 

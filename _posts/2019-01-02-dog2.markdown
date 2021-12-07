@@ -6,7 +6,7 @@ description:
 image: /assets/images/dogs2.jpg
 author: Josias Marti
 tags: 
-  - board game
+- own project
 
 ---
 Eigene Interpretation des bekannten Spiel DOG gelasert und durch modularen Aufbau wie ein Puzzle praktisch für Unterwegs
