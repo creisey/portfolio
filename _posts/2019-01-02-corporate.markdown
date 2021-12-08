@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-small
 title: "professional Design experience"
 date: 2019-01-01
 description: 

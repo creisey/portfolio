@@ -1349,7 +1349,7 @@ img.zoom-img {
 }
 .footer {
   color: #FFF;
-  background-color: #000;
+  background-color: rgb(141, 141, 141);
   border-top: 1px solid rgba(0, 0, 0, 0.1);
 }
 .footer__container {
@@ -1714,6 +1714,28 @@ main {
   display: block;
   margin-top: 0.25em;
   font-size: 0.8em;
+}
+.post__img1 {
+  height: 10em;
+  padding: 1em;
+}
+@media (min-width: 32em) {
+  .post__img1 {
+    height: 10em;
+    padding: 2em;
+  }
+}
+@media (min-width: 54em) {
+  .post__img1 {
+    height: 10em;
+    min-height: 10em;
+  }
+}
+.post__img1 > * {
+  position: relative;
+  height: 100%;
+  width: 100%;
+  background-color: #f8f8f8;
 }
 .post__img {
   height: 18em;
