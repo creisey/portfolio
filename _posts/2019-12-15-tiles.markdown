@@ -9,6 +9,12 @@ tags:
 - Master
 ---
 Ein Dekorelemet mit Akustik-Dämmung
+---
 
-
+<img src="/assets/svg/projekt.svg#full" alt="Full Image"/>
+-
+<img src="/assets/svg/projekt2.svg#full" alt="Full Image"/>
+-
+<img src="/assets/svg/projekt3.svg#full" alt="Full Image"/>
+-
 <iframe style="border: none;" src="/assets/plattli.html"></iframe>
