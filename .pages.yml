@@ -1,0 +1,69 @@
+media:
+  input: assets/images
+  output: /assets/images
+  extensions: [jpg, jpeg, png, webp, gif]
+  rename: false
+
+content:
+  - name: posts
+    label: Projekte und Beiträge
+    type: collection
+    path: _posts
+    format: yaml-frontmatter
+    filename:
+      template: "{year}-{month}-{day}-{primary}.markdown"
+      field: create
+    view:
+      primary: title
+      fields: [title, date, tags]
+      sort: [date, title]
+      search: [title, description, tags]
+      default:
+        sort: date
+        order: desc
+    fields:
+      - name: title
+        label: Titel
+        type: string
+        required: true
+      - name: date
+        label: Datum
+        type: date
+        required: true
+        options:
+          time: false
+          format: yyyy-MM-dd
+      - name: description
+        label: Kurzbeschreibung
+        type: text
+      - name: image
+        label: Titelbild
+        type: image
+        options:
+          path: ""
+          extensions: [jpg, jpeg, png, webp, gif]
+      - name: author
+        label: Autor
+        type: string
+        default: Josias Marti
+      - name: tags
+        label: Kategorien
+        type: string
+        list: true
+      - name: body
+        label: Inhalt
+        type: rich-text
+        options:
+          format: markdown
+          media: false
+          switcher: true
+    operations:
+      delete: false
+
+settings:
+  commit:
+    identity: user
+    templates:
+      create: "content: neuen Beitrag {path} erstellen"
+      update: "content: {path} bearbeiten"
+      rename: "content: {oldPath} umbenennen"
