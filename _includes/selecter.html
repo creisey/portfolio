@@ -1,4 +1,10 @@
-<!-- The selecter top of the screen -->
-    <div class="footer__container">
-      {% tags_list :threshold => 1, :sort_by => count, :order_by => desc, :limit => 5 %}
-    </div>
+<!-- Tag list; use standard Liquid syntax so the GitHub Pages build works in safe mode. -->
+<div class="footer__container">
+  {% assign sorted_tags = site.tags | sort %}
+  <ul class="footer__tags">
+    {% for tag_entry in sorted_tags limit:5 %}
+      {% assign tag_name = tag_entry[0] %}
+      <li><a class="footer__link" href="/tag/{{ tag_name | slugify }}">{{ tag_name | capitalize }}</a></li>
+    {% endfor %}
+  </ul>
+</div>
