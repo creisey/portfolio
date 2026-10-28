@@ -1,0 +1,23 @@
+---
+layout: default
+---
+<section class="mast section-padding--double">
+  <div class="grid">
+    <h2>{{ page.tag_name | capitalize }}</h2>
+  </div>
+</section>
+<div class="section-padding--none">
+  <div class="grid-large">
+    <hr class="sep"/>
+  </div>
+</div>
+<div class="posts">
+  <div class="grid-xlarge">
+    <div class="posts__container" itemscope itemtype="http://schema.org/Blog" data-columns>
+      {% assign tagged_posts = site.tags[page.tag_name] %}
+      {% for post in tagged_posts %}
+        {% include post-card.html %}
+      {% endfor %}
+    </div>
+  </div>
+</div>
